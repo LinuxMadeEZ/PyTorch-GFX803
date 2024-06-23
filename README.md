@@ -1,6 +1,9 @@
 # PyTorch-GFX803
 Torch and TorchVision compiled on Alma Linux 9 for GFX803 arch.
 
+## Video on YouTube to help you configure everything.
+- https://youtu.be/ljXdEih2GOI
+
 ## 💻 Requirements
 
 This is what I recommend. If you want to use anything other than this, you will be on your own.
